@@ -6,9 +6,12 @@ Note: This is a subset of original dataset. Full dataset is coming soon.
 About Dataset:
   1. All files are numpy files (.npy).
   2. There are 3 sub-directories:
+     
        a. 'final_sr_dataset/band/' contains High-resolution guide images.
+     
        b. 'final_sr_dataset/cdem/' contains High-resolution DEM data.
+     
        c. 'final_sr_dataset/cdem/' contains Low-resolution (LR) DEM data.
-  3. All images are resized to 128x128 patches. LR DEMs are already 3x bicubic interpolated.
-  4. DEM data ranges from -300m to 6000m.
-  5. Guide images ranges from 0 to 2047.
+  4. All images are resized to 128x128 patches. LR DEMs are already 3x bicubic interpolated.
+  5. DEM data ranges from -300m to 6000m.
+  6. Guide images ranges from 0 to 2047.
