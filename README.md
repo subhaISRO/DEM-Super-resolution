@@ -5,7 +5,7 @@ Note: This is a subset of original dataset. Full dataset is coming soon.
 
 About Dataset:
   1. All files are numpy files (.npy).
-  2. There are 3 sub-directories
+  2. There are 3 sub-directories:
        a. 'final_sr_dataset/band/' contains High-resolution guide images.
        b. 'final_sr_dataset/cdem/' contains High-resolution DEM data.
        c. 'final_sr_dataset/cdem/' contains Low-resolution (LR) DEM data.
